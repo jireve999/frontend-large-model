@@ -15,4 +15,7 @@
 - tts_demo
 - kimi_vision
 
+#### 5.智能体应用实战：拍照记单词
+- capture_the_word
+
 <img src="public/kimi_version.png" width="400" alt="finance1">
